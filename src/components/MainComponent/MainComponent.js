@@ -14,7 +14,7 @@ const MainComponent = ({
 }) => {
   return (
     <div
-      className="min-h-screen flex flex-col items-center justify-center gap-12 w-full"
+      className="min-h-screen py-5 flex flex-col items-center justify-center gap-12 w-full"
       style={{ background: "var(--mainBg)" }}
     >
       <div className={classes.header}>
