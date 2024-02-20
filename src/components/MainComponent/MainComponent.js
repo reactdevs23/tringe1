@@ -22,7 +22,7 @@ const MainComponent = ({
           className={classes.subHeading}
           style={{ "--color": header.subHeadingColor }}
         >
-          {header.heading}
+          {header.subHeading}
         </h5>
         <h2
           className={classes.heading}
